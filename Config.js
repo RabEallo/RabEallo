@@ -2,14 +2,14 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernumber =  "254742710486"
-global.ownername = "Ashali renson"
-global.ytname = "YT: AyushBotz.inc"
-global.socialm = "GitHub: Ayushpandey023"
-global.location = "Kenya"
+global.ownernumber =  "255783511939"
+global.ownername = "RabEallo268"
+global.ytname = "YT: RabEalloBotz.inc"
+global.socialm = "GitHub: RabEallo268"
+global.location = "Uganda"
 
-global.ownername = 'Ayush' //owner name
-global.botname = 'GOLD-KING' //name of the bot
+global.ownername = 'RabEallo' //owner name
+global.botname = 'RabEallo268' //name of the bot
 
 //sticker details
 global.stickername = '💙𓆩‎✘AʏᴜSʜ✘𓆪_✰'
@@ -17,7 +17,7 @@ global.packname = 'Sticker By'
 global.author = 'Gold Bot'
 //console view/theme
 global.themeemoji = '🧩'
-global.wm = "Ayush botz inc."
+global.wm = "RabEallo botz inc."
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029VaImo5ZG3R3qjKOdyr1I'
